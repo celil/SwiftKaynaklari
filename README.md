@@ -2,7 +2,7 @@
 
 iOS geliştirme için birçok kaynak var. Bu reponun amacı, Türkiye'deki geliştiriciler için faydalı olabilecek kaynakları biraraya toplarlamaktır. 
 
-Kaynaklara yazılmış açıklama notları ve simgeler sayesinde kaynak hakkında önbilgiye sahip olabilirsiniz.
+Kaynaklara yazılmış açıklama notları sayesinde kaynak hakkında önbilgiye sahip olabilirsiniz.
 
 ## Dersler
 - [Stanford Swift Cources](https://www.youtube.com/watch?list=PLy7oRd3ashWodnpf8rjfYEkTgwbOEsKfU&v=GOEPVM5OzJk) - Standford Ünivesitesi'nin Swift dersleri profesyonel çekim ile eğitici video serisi haline getirilmiş.

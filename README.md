@@ -15,6 +15,7 @@ Kaynaklara yazılmış açıklama notları sayesinde kaynak hakkında önbilgiye
 - [Swift Programming - Santosh Rajan](https://medium.com/swift-programming/1-learn-swift-by-running-scripts-73fdf8507f4b) - Giriş düzeyindeki geliştiriciler için hazırlanmış bir yazı dizisi.
 - [We ❤️ Swift](https://www.weheartswift.com) - Swift ile alakalı birden fazla konuya, kütüphaneye ve kod örneğine değinen bir blog sitesi. 
 - [NSIstanbul](https://medium.com/nsistanbul) - NSIstanbul topluluğunun üyeleri tarafından içerik oluşturulan bir Medium yayını. Ağırlıklı olarak Türkçe içerikler yer alıyor ve farklı konulara değiniyor.
+- [Litle Bites Of Cocoa](https://littlebitesofcocoa.com/) - iOS ve MacOS geliştiricileri için çok fayda konuda ipucu ve teknik bilgi içeren bir blog sitesi.
 
 ## Youtube 
 - [Archetapp - Jared Davidson](https://www.youtube.com/channel/UCDIBBmkZIB2hjBsk1hUImdA) - Jared, uzun süredir Swift ile alakalı bilgilendirici içerikler üretiyor.

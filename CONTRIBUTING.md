@@ -7,6 +7,6 @@ Takip ettiğiniz, faydalandığınız bir aracı, kaynağı ya da kütüphaneyi 
 - Eklediğiniz kaynağın güncel olmasına özel gösteriniz. Eğer güncel değilse yorumuna bunu muhakkak yazınız.
 - Ekleme yaparken başlıklarda [title-casting](http://titlecapitalization.com/) (AP Style) kullanmaya özen gösteriniz.
 - Link eklerken `[Kaynak Adı](link)` formatını kullanmaya özen gösteriniz.
-- Commit mesajlarına eklediğiniz linklerin isimlerini yazmanız PR sürecine yardımcı olacaktır. (Örn: apple docs eklendi.)
+- Pull Request göndermeden önce [Pull Request Kuralları](https://github.com/celil/SwiftKaynaklari/blob/master/PULL_REQUEST_TEMPLATE.md)'nı inceleyiniz. 
 
 Katkı ve emekleriniz için teşekkür ediyorum. 🙏

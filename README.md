@@ -1,6 +1,6 @@
-# Faydalı Swift Kaynakları
 ![Banner](banner.png)
 
+# Hakkında
 iOS geliştirme için birçok kaynak var fakat verimli ve güncel kaynakları bulmak/takip etmek epeyce emek gerektiriyor. Bu reponun amacı, Türkiye'deki geliştiriciler için faydalı olabilecek kaynakları bir araya toplarlamak ve referans yorumlarıyla geliştiricinin kaynak hakkında bilgi edinmesini sağlamaktır.
 
 Kaynaklara yazılmış açıklama notları sayesinde kaynak hakkında önbilgiye sahip olabilirsiniz.

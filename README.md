@@ -1,6 +1,7 @@
 # Faydalı Swift Kaynakları
+![Banner](banner.png)
 
-iOS geliştirme için birçok kaynak var. Bu reponun amacı, Türkiye'deki geliştiriciler için faydalı olabilecek kaynakları biraraya toplarlamaktır. 
+iOS geliştirme için birçok kaynak var fakat verimli ve güncel kaynakları bulmak/takip etmek epeyce emek gerektiriyor. Bu reponun amacı, Türkiye'deki geliştiriciler için faydalı olabilecek kaynakları bir araya toplarlamak ve referans yorumlarıyla geliştiricinin kaynak hakkında bilgi edinmesini sağlamaktır.
 
 Kaynaklara yazılmış açıklama notları sayesinde kaynak hakkında önbilgiye sahip olabilirsiniz.
 
@@ -13,6 +14,8 @@ Kaynaklara yazılmış açıklama notları sayesinde kaynak hakkında önbilgiye
 ## Bloglar
 - [Swift Programming - Santosh Rajan](https://medium.com/swift-programming/1-learn-swift-by-running-scripts-73fdf8507f4b) - Giriş düzeyindeki geliştiriciler için hazırlanmış bir yazı dizisi.
 - [We ❤️ Swift](https://www.weheartswift.com) - Swift ile alakalı birden fazla konuya, kütüphaneye ve kod örneğine değinen bir blog sitesi. 
+- [NSIstanbul](https://medium.com/nsistanbul) - NSIstanbul topluluğunun üyeleri tarafından içerik oluşturulan bir Medium yayını. Ağırlıklı olarak Türkçe içerikler yer alıyor ve farklı konulara değiniyor.
+- [Litle Bites Of Cocoa](https://littlebitesofcocoa.com/) - iOS ve MacOS geliştiricileri için çok fayda konuda ipucu ve teknik bilgi içeren bir blog sitesi.
 
 ## Youtube 
 - [Archetapp - Jared Davidson](https://www.youtube.com/channel/UCDIBBmkZIB2hjBsk1hUImdA) - Jared, uzun süredir Swift ile alakalı bilgilendirici içerikler üretiyor.
@@ -20,3 +23,4 @@ Kaynaklara yazılmış açıklama notları sayesinde kaynak hakkında önbilgiye
 
 ## Araçlar
 - [UIColor](http://uicolor.xyz/#/hex-to-ui) - Elinizdeki HEX ya da RGB rengi UIColor'a çeviren bir araç.
+- [WTF?](https://www.wtfautolayout.com/) - Constraint hatalarını görselleştirmeyi sağlayan bir araç Özellikle auto layout kullanmaya yeni başlayan geliştiriciler için oldukça faydalı.

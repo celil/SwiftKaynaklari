@@ -1,6 +1,7 @@
 # Faydalı Swift Kaynakları
 ![Banner](banner.png)
-iOS geliştirme için birçok kaynak var. Bu reponun amacı, Türkiye'deki geliştiriciler için faydalı olabilecek kaynakları biraraya toplarlamaktır. 
+
+iOS geliştirme için birçok kaynak var fakat verimli ve güncel kaynakları bulmak/takip etmek epeyce emek gerektiriyor. Bu reponun amacı, Türkiye'deki geliştiriciler için faydalı olabilecek kaynakları bir araya toplarlamak ve referans yorumlarıyla geliştiricinin kaynak hakkında bilgi edinmesini sağlamaktır.
 
 Kaynaklara yazılmış açıklama notları sayesinde kaynak hakkında önbilgiye sahip olabilirsiniz.
 
@@ -20,3 +21,4 @@ Kaynaklara yazılmış açıklama notları sayesinde kaynak hakkında önbilgiye
 
 ## Araçlar
 - [UIColor](http://uicolor.xyz/#/hex-to-ui) - Elinizdeki HEX ya da RGB rengi UIColor'a çeviren bir araç.
+- [WTF?](https://www.wtfautolayout.com/) - Constraint hatalarını görselleştirmeyi sağlayan bir araç Özellikle auto layout kullanmaya yeni başlayan geliştiriciler için oldukça faydalı.

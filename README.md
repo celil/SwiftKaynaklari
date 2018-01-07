@@ -19,8 +19,9 @@ Kaynaklara yazılmış açıklama notları sayesinde kaynak hakkında önbilgiye
 - [Ray Wenderlich](https://www.raywenderlich.com/category/swift) -  iOS geliştirme ile ilgili podcast, video içerik ve blog içerikleri üreten bir oluşum. Çok farklı konularda detaylı anlatımlar yapıyorlar. Ayrıca içerikleri sürekli güncel tutmaları da bu oluşumu daha başarılı kılıyor.
 
 ## Youtube 
-- [Archetapp - Jared Davidson](https://www.youtube.com/channel/UCDIBBmkZIB2hjBsk1hUImdA) - Jared, uzun süredir Swift ile alakalı bilgilendirici içerikler üretiyor.
+- [Archetapp - Jared Davidson](https://www.youtube.com/channel/UCDIBBmkZIB2hjBsk1hUImdA) - Jared, uzun süredir Swift ile alakalı bilgilendirici içerikler üretiyor. Samimi ve detaylı anlatımı ile, Swift kategorisinde takip edilmesi gereken Youtube kanallarının başında geliyor.
 - [Burak Gökçınar](https://www.youtube.com/channel/UCz0MSOy_CIt32ISVz4KPnFA) - Burak, az bilinen konulara değiniyor ve Türkçe içerikler üretiyor.
+- [Brian Advent](https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw) - Brian, düzenli olarak video üretiyor ve güncel teknolojileri, kütüphaneleri sık sık kullanıyor.
 
 ## Araçlar
 - [UIColor](http://uicolor.xyz/#/hex-to-ui) - Elinizdeki HEX ya da RGB rengi UIColor'a çeviren bir araç.

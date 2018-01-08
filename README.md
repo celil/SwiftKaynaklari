@@ -9,6 +9,7 @@ Kaynaklara yazılmış açıklama notları sayesinde kaynak hakkında önbilgiye
 - [Stanford Swift Cources](https://www.youtube.com/watch?list=PLy7oRd3ashWodnpf8rjfYEkTgwbOEsKfU&v=GOEPVM5OzJk) - Standford Ünivesitesi'nin Swift dersleri profesyonel çekim ile eğitici video serisi haline getirilmiş.
 - [Code with Chris - Chris Ching](https://codewithchris.com/how-to-make-an-iphone-app/) - Başlangıç düzeyindeki geliştiriciler için hazırlanmış Swift eğitim video serisi. Video süresince birkaç kütüphane ve araca da değiniyor.
 - [Swift Language](https://www.youtube.com/playlist?list=PLxwBNxx9j4PUpjCEVwjqFvNecNvQ6Dj6G) - 400'den fazla Swift videosu ile çok farklı konularda bilgi edinebileceğiniz video serisi. Swift 1, Swift 2 ve Swift 3 içerdiği için videolardaki kodlar güncel olmayabilir.
+- [Lets Build That App](https://www.letsbuildthatapp.com/) - Popüler uygulamaların clone'ları üzerinden video eğitim serileri barındırıyor.
 
 
 ## Bloglar
@@ -29,3 +30,12 @@ Kaynaklara yazılmış açıklama notları sayesinde kaynak hakkında önbilgiye
 
 ## Çeşitli
 - [iOS & Swift Tüyolar](https://github.com/uy/iOS-Swift-Little-Tricks) - iOS için takip edilebilecek, ufak ama yararlı geliştirmeleri barındırıyor.
+
+## Stil Kılavuzları
+Bazı gruplarca/şirketlerce belirlenmiş çeşitli geliştirme standartları. 
+- [Ray Wenderlich](https://github.com/raywenderlich/swift-style-guide)
+- [GitHub](https://github.com/github/swift-style-guide)
+- [Linkedin](https://github.com/linkedin/swift-style-guide)
+- [Wordpress Mobile](https://github.com/wordpress-mobile/swift-style-guide)
+- [Coursera](https://github.com/coursera/swift-style-guide)
+- [Metova](https://github.com/metova/swift-style-guide)

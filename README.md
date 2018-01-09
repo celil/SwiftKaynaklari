@@ -23,10 +23,12 @@ Kaynaklara yazılmış açıklama notları sayesinde kaynak hakkında önbilgiye
 - [Archetapp - Jared Davidson](https://www.youtube.com/channel/UCDIBBmkZIB2hjBsk1hUImdA) - Jared, uzun süredir Swift ile alakalı bilgilendirici içerikler üretiyor. Samimi ve detaylı anlatımı ile, Swift kategorisinde takip edilmesi gereken Youtube kanallarının başında geliyor.
 - [Burak Gökçınar](https://www.youtube.com/channel/UCz0MSOy_CIt32ISVz4KPnFA) - Burak, az bilinen konulara değiniyor ve Türkçe içerikler üretiyor.
 - [Brian Advent](https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw) - Brian, düzenli olarak video üretiyor ve güncel teknolojileri, kütüphaneleri sık sık kullanıyor.
+- [Duc Tran](https://www.youtube.com/channel/UCvPFGq6luCqAVGiFpzTvkIA/videos) - Kanal, hemen hemen her konuda içerik üretmeye çalışıyor. Son zamanlarda içerik üretim istikrarı biraz kaybolsa da takip edilmeli.
 
 ## Araçlar
 - [UIColor](http://uicolor.xyz/#/hex-to-ui) - Elinizdeki HEX ya da RGB rengi UIColor'a çeviren bir araç.
 - [WTF?](https://www.wtfautolayout.com/) - Constraint hatalarını görselleştirmeyi sağlayan bir araç Özellikle auto layout kullanmaya yeni başlayan geliştiriciler için oldukça faydalı.
+- [DaVinci Apps](https://davinciapps.com/) - Uygulamalarınız için şık ekran görüntüleri hazırlamanıza olanak veren bir site. Özellikle kişisel projelerde çok iş görüyor.
 
 ## Çeşitli
 - [iOS & Swift Tüyolar](https://github.com/uy/iOS-Swift-Little-Tricks) - iOS için takip edilebilecek, ufak ama yararlı geliştirmeleri barındırıyor.

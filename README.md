@@ -18,6 +18,7 @@ Kaynaklara yazılmış açıklama notları sayesinde kaynak hakkında önbilgiye
 - [NSIstanbul](https://medium.com/nsistanbul) - NSIstanbul topluluğunun üyeleri tarafından içerik oluşturulan bir Medium yayını. Ağırlıklı olarak Türkçe içerikler yer alıyor ve farklı konulara değiniyor.
 - [Litle Bites Of Cocoa](https://littlebitesofcocoa.com/) - iOS ve MacOS geliştiricileri için çok fayda konuda ipucu ve teknik bilgi içeren bir blog sitesi.
 - [Ray Wenderlich](https://www.raywenderlich.com/category/swift) -  iOS geliştirme ile ilgili podcast, video içerik ve blog içerikleri üreten bir oluşum. Çok farklı konularda detaylı anlatımlar yapıyorlar. Ayrıca içerikleri sürekli güncel tutmaları da bu oluşumu daha başarılı kılıyor.
+- [Kenan Atmaca](http://kenanatmaca.com/) - iOS geliştirme ile Türkçe içerik üreten en kaliteli bloglardan birisi. Kenan hem güncel teknolojilere değiniyor hem de sık sık içerik üretiyor.
 
 ## Youtube 
 - [Archetapp - Jared Davidson](https://www.youtube.com/channel/UCDIBBmkZIB2hjBsk1hUImdA) - Jared, uzun süredir Swift ile alakalı bilgilendirici içerikler üretiyor. Samimi ve detaylı anlatımı ile, Swift kategorisinde takip edilmesi gereken Youtube kanallarının başında geliyor.

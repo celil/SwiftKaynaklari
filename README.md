@@ -34,6 +34,8 @@ Kaynaklara yazılmış açıklama notları sayesinde kaynak hakkında önbilgiye
 
 ## Çeşitli
 - [iOS & Swift Tüyolar](https://github.com/uy/iOS-Swift-Little-Tricks) - iOS için takip edilebilecek, ufak ama yararlı geliştirmeleri barındırıyor.
+- [Awesome Swift](https://github.com/matteocrippa/awesome-swift) - Swift ile yazılmış birçok faydalı kütüphane listesi.
+- [Awesome iOS](https://github.com/vsouza/awesome-ios) - iOS geliştirme yaparken kullanabileceğiniz pek çok faydalı kütüphane ve component listesi.
 
 ## Stil Kılavuzları
 Bazı gruplarca/şirketlerce belirlenmiş çeşitli geliştirme standartları. 

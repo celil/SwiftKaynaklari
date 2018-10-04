@@ -19,6 +19,7 @@ Kaynaklara yazılmış açıklama notları sayesinde kaynak hakkında önbilgiye
 - [Litle Bites Of Cocoa](https://littlebitesofcocoa.com/) - iOS ve MacOS geliştiricileri için çok fayda konuda ipucu ve teknik bilgi içeren bir blog sitesi.
 - [Ray Wenderlich](https://www.raywenderlich.com/category/swift) -  iOS geliştirme ile ilgili podcast, video içerik ve blog içerikleri üreten bir oluşum. Çok farklı konularda detaylı anlatımlar yapıyorlar. Ayrıca içerikleri sürekli güncel tutmaları da bu oluşumu daha başarılı kılıyor.
 - [Kenan Atmaca](http://kenanatmaca.com/) - iOS geliştirme ile Türkçe içerik üreten en kaliteli bloglardan birisi. Kenan hem güncel teknolojilere değiniyor hem de sık sık içerik üretiyor.
+- [Halil Özel](https://medium.com/@halilozel1903) - iOS uygulama geliştirme ile ilgili Türkçe içerikler üreten bir blog yazarıdır. Sık sık iOS uygulama geliştirmeyle alakalı yazılar yazmaktadır.
 
 ## Youtube 
 - [Archetapp - Jared Davidson](https://www.youtube.com/channel/UCDIBBmkZIB2hjBsk1hUImdA) - Jared, uzun süredir Swift ile alakalı bilgilendirici içerikler üretiyor. Samimi ve detaylı anlatımı ile, Swift kategorisinde takip edilmesi gereken Youtube kanallarının başında geliyor.
@@ -36,6 +37,8 @@ Kaynaklara yazılmış açıklama notları sayesinde kaynak hakkında önbilgiye
 - [iOS & Swift Tüyolar](https://github.com/uy/iOS-Swift-Little-Tricks) - iOS için takip edilebilecek, ufak ama yararlı geliştirmeleri barındırıyor.
 - [Awesome Swift](https://github.com/matteocrippa/awesome-swift) - Swift ile yazılmış birçok faydalı kütüphane listesi.
 - [Awesome iOS](https://github.com/vsouza/awesome-ios) - iOS geliştirme yaparken kullanabileceğiniz pek çok faydalı kütüphane ve component listesi.
+- [Swift 101](https://github.com/halilozel1903/Swift101) - Swift programlamanın temelleri hakkında çeşitli bilgi ve örnekler içeren bir projedir.
+- [iOSProjects](https://github.com/halilozel1903/iOSProjects) -  Swift-4.2 ile geliştirilmiş olan birbirinden farklı uygulamaları içeren bir projedir.
 
 ## Stil Kılavuzları
 Bazı gruplarca/şirketlerce belirlenmiş çeşitli geliştirme standartları. 

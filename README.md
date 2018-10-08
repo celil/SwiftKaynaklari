@@ -20,6 +20,8 @@ Kaynaklara yazılmış açıklama notları sayesinde kaynak hakkında önbilgiye
 - [Ray Wenderlich](https://www.raywenderlich.com/category/swift) -  iOS geliştirme ile ilgili podcast, video içerik ve blog içerikleri üreten bir oluşum. Çok farklı konularda detaylı anlatımlar yapıyorlar. Ayrıca içerikleri sürekli güncel tutmaları da bu oluşumu daha başarılı kılıyor.
 - [Kenan Atmaca](http://kenanatmaca.com/) - iOS geliştirme ile Türkçe içerik üreten en kaliteli bloglardan birisi. Kenan hem güncel teknolojilere değiniyor hem de sık sık içerik üretiyor.
 - [Halil Özel](https://medium.com/@halilozel1903) - iOS uygulama geliştirme ile ilgili Türkçe içerikler üreten bir blog yazarıdır. Sık sık iOS uygulama geliştirmeyle alakalı yazılar yazmaktadır.
+- [TurkishKit](https://medium.com/turkishkit) - iOS programlama ile ilgili sıklıkla blog yazıları paylaşılan bir blog. Türkçe içerikler üretilmektedir.
+- [iOS Notları](https://iosnotlari.com/dersler/) - iOS uygulama geliştirme ile Türkçe içerik üreten bir blog sitesidir. Güncel konularda blog yazıları yayınlanmaktadır.
 
 ## Youtube 
 - [Archetapp - Jared Davidson](https://www.youtube.com/channel/UCDIBBmkZIB2hjBsk1hUImdA) - Jared, uzun süredir Swift ile alakalı bilgilendirici içerikler üretiyor. Samimi ve detaylı anlatımı ile, Swift kategorisinde takip edilmesi gereken Youtube kanallarının başında geliyor.

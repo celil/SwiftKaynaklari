@@ -24,12 +24,16 @@ Kaynaklara yazılmış açıklama notları sayesinde kaynak hakkında önbilgiye
 - [iOS Notları](https://iosnotlari.com/dersler/) - iOS uygulama geliştirme ile Türkçe içerik üreten bir blog sitesidir. Güncel konularda blog yazıları yayınlanmaktadır.
 - [Yazılım Sanatı](https://yazilimsanati.net/category/swift/) - iOS uygulama geliştirme ile ilgili Türkçe içerikler üreten bir blog sitesidir. Yeni bir blog sitesidir. Yeni yazılar eklenmeye devam ediyor.
 
+## Podcastler
+
+- [Swifthane](https://swifthane.com) - swift hakkında çeşitli konuların, çeşitli konuklarla değerlendirilip, tartışıldığı ve Ali Can Batur ile Ahmet Yalçınkaya tarafından yürütülen bir podcast serisidir.
 
 ## Youtube 
 - [Archetapp - Jared Davidson](https://www.youtube.com/channel/UCDIBBmkZIB2hjBsk1hUImdA) - Jared, uzun süredir Swift ile alakalı bilgilendirici içerikler üretiyor. Samimi ve detaylı anlatımı ile, Swift kategorisinde takip edilmesi gereken Youtube kanallarının başında geliyor.
 - [Burak Gökçınar](https://www.youtube.com/channel/UCz0MSOy_CIt32ISVz4KPnFA) - Burak, az bilinen konulara değiniyor ve Türkçe içerikler üretiyor.
 - [Brian Advent](https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw) - Brian, düzenli olarak video üretiyor ve güncel teknolojileri, kütüphaneleri sık sık kullanıyor.
 - [Duc Tran](https://www.youtube.com/channel/UCvPFGq6luCqAVGiFpzTvkIA/videos) - Kanal, hemen hemen her konuda içerik üretmeye çalışıyor. Son zamanlarda içerik üretim istikrarı biraz kaybolsa da takip edilmeli.
+- [Late Night Muhabbetleri](https://www.youtube.com/channel/UCjVMKSrhru8KSirbfzzFHpw) - Ilter Cengiz ve Göksel Köksal tarafından hazırlanan, ilk sezonu Mimari ve Moduler App yapısı üzerine olan Youtube serisidir.
 - [Lets Build That App](https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA/videos) - Sosyal medya ve blog sitesini de çok aktif kullanan bir ekibin Youtube kanalı. Çok fazla sayıda bilgilendirici içerik üretiyorlar.
 
 ## Araçlar

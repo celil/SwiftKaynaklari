@@ -6,7 +6,7 @@ iOS geliştirme için birçok kaynak var fakat verimli ve güncel kaynakları bu
 Kaynaklara yazılmış açıklama notları sayesinde kaynak hakkında önbilgiye sahip olabilirsiniz.
 
 ## Dersler
-- [Stanford Swift Cources](https://www.youtube.com/watch?list=PLy7oRd3ashWodnpf8rjfYEkTgwbOEsKfU&v=GOEPVM5OzJk) - Standford Ünivesitesi'nin Swift dersleri profesyonel çekim ile eğitici video serisi haline getirilmiş.
+- [Stanford Swift Cources](https://www.youtube.com/playlist?list=PL3d_SFOiG7_8ofjyKzX6Nl1wZehbdiZC_) - Standford Ünivesitesi'nin Swift dersleri profesyonel çekim ile eğitici video serisi haline getirilmiş.
 - [Code with Chris - Chris Ching](https://codewithchris.com/how-to-make-an-iphone-app/) - Başlangıç düzeyindeki geliştiriciler için hazırlanmış Swift eğitim video serisi. Video süresince birkaç kütüphane ve araca da değiniyor.
 - [Swift Language](https://www.youtube.com/playlist?list=PLxwBNxx9j4PUpjCEVwjqFvNecNvQ6Dj6G) - 400'den fazla Swift videosu ile çok farklı konularda bilgi edinebileceğiniz video serisi. Swift 1, Swift 2 ve Swift 3 içerdiği için videolardaki kodlar güncel olmayabilir.
 - [Lets Build That App](https://www.letsbuildthatapp.com/) - Popüler uygulamaların clone'ları üzerinden video eğitim serileri barındırıyor.

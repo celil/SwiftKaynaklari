@@ -22,7 +22,7 @@ Kaynaklara yazılmış açıklama notları sayesinde kaynak hakkında önbilgiye
 - [Halil Özel](https://medium.com/@halilozel1903) - iOS uygulama geliştirme ile ilgili Türkçe içerikler üreten bir blog yazarıdır. Sık sık iOS uygulama geliştirmeyle alakalı yazılar yazmaktadır.
 - [TurkishKit](https://medium.com/turkishkit) - iOS programlama ile ilgili sıklıkla blog yazıları paylaşılan bir blog. Türkçe içerikler üretilmektedir.
 - [iOS Notları](https://iosnotlari.com/dersler/) - iOS uygulama geliştirme ile Türkçe içerik üreten bir blog sitesidir. Güncel konularda blog yazıları yayınlanmaktadır.
-- [Yazılım Cenneti](http://yazilimcenneti.net/category/ios/) - iOS uygulama geliştirme ile ilgili Türkçe içerikler üreten bir blog sitesidir. Yeni bir blog sitesidir. Yeni yazılar eklenmeye devam ediyor.
+
 
 ## Podcastler
 
@@ -46,7 +46,7 @@ Kaynaklara yazılmış açıklama notları sayesinde kaynak hakkında önbilgiye
 - [Awesome Swift](https://github.com/matteocrippa/awesome-swift) - Swift ile yazılmış birçok faydalı kütüphane listesi.
 - [Awesome iOS](https://github.com/vsouza/awesome-ios) - iOS geliştirme yaparken kullanabileceğiniz pek çok faydalı kütüphane ve component listesi.
 - [Swift 101](https://github.com/halilozel1903/Swift101) - Swift programlamanın temelleri hakkında çeşitli bilgi ve örnekler içeren bir projedir.
-- [iOSProjects](https://github.com/halilozel1903/iOSProjects) -  Swift-4.2 ile geliştirilmiş olan birbirinden farklı uygulamaları içeren bir projedir.
+- [iOSProjects](https://github.com/halilozel1903/iOSProjects) -  Swift diliyle geliştirilmiş olan birbirinden farklı uygulamaları içeren bir projedir.
 
 ## Stil Kılavuzları
 Bazı gruplarca/şirketlerce belirlenmiş çeşitli geliştirme standartları. 

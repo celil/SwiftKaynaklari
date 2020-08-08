@@ -2,7 +2,7 @@
 //  example.swift
 //
 //  Created by Celil Bozkurt on 7.01.2018.
-//  Copyright © 2018 GiniPay. All rights reserved.
+//  Copyright © 2018. All rights reserved.
 //
 
 import Foundation

@@ -22,6 +22,7 @@ Kaynaklara yazılmış açıklama notları sayesinde kaynak hakkında önbilgiye
 - [Halil Özel](https://medium.com/@halilozel1903) - iOS uygulama geliştirme ile ilgili Türkçe içerikler üreten bir blog yazarıdır. Sık sık iOS uygulama geliştirmeyle alakalı yazılar yazmaktadır.
 - [TurkishKit](https://medium.com/turkishkit) - iOS programlama ile ilgili sıklıkla blog yazıları paylaşılan bir blog. Türkçe içerikler üretilmektedir.
 - [iOS Notları](https://iosnotlari.com/dersler/) - iOS uygulama geliştirme ile Türkçe içerik üreten bir blog sitesidir. Güncel konularda blog yazıları yayınlanmaktadır.
+- [Hacking with Swift](https://www.hackingwithswift.com/) - Özellikle SwiftUI üzerine detaylı ve eğitici içerikler bulabileceğiniz blog sitesi.
 
 
 ## Podcastler
@@ -35,6 +36,7 @@ Kaynaklara yazılmış açıklama notları sayesinde kaynak hakkında önbilgiye
 - [Duc Tran](https://www.youtube.com/channel/UCvPFGq6luCqAVGiFpzTvkIA/videos) - Kanal, hemen hemen her konuda içerik üretmeye çalışıyor. Son zamanlarda içerik üretim istikrarı biraz kaybolsa da takip edilmeli.
 - [Late Night Muhabbetleri](https://www.youtube.com/channel/UCjVMKSrhru8KSirbfzzFHpw) - Ilter Cengiz ve Göksel Köksal tarafından hazırlanan, ilk sezonu Mimari ve Moduler App yapısı üzerine olan Youtube serisidir.
 - [Lets Build That App](https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA/videos) - Sosyal medya ve blog sitesini de çok aktif kullanan bir ekibin Youtube kanalı. Çok fazla sayıda bilgilendirici içerik üretiyorlar.
+- [Paul Hudson](https://www.youtube.com/channel/UCmJi5RdDLgzvkl3Ly0DRMlQ) - Hacking with Swift'in kurucusu olan Paul, son dönemlerde SwiftUI üzerine faydalı içerikler üretiyor.
 
 ## Araçlar
 - [UIColor](http://uicolor.xyz/#/hex-to-ui) - Elinizdeki HEX ya da RGB rengi UIColor'a çeviren bir araç.

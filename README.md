@@ -10,6 +10,7 @@ Kaynaklara yazılmış açıklama notları sayesinde kaynak hakkında önbilgiye
 - [Code with Chris - Chris Ching](https://codewithchris.com/how-to-make-an-iphone-app/) - Başlangıç düzeyindeki geliştiriciler için hazırlanmış Swift eğitim video serisi. Video süresince birkaç kütüphane ve araca da değiniyor.
 - [Swift Language](https://www.youtube.com/playlist?list=PLxwBNxx9j4PUpjCEVwjqFvNecNvQ6Dj6G) - 400'den fazla Swift videosu ile çok farklı konularda bilgi edinebileceğiniz video serisi. Swift 1, Swift 2 ve Swift 3 içerdiği için videolardaki kodlar güncel olmayabilir.
 - [Lets Build That App](https://www.letsbuildthatapp.com/) - Popüler uygulamaların clone'ları üzerinden video eğitim serileri barındırıyor.
+- [Design+Code](https://designcode.io/courses/) - Giriş düzeyindeki öğreniciler için farklı konularda eğitim veren bir eğitim sitesi. SwiftUI için de eğitici dersler mevcut.
 
 
 ## Bloglar
